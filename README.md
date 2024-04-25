@@ -39,13 +39,11 @@ Example:
 2. **Install Dependencies**
 
 ```dotnet restore
-
 ```
 
 3. **Running the application \***
 
 ```dotnet run
-
 ```
 
 ### Notes on Customization:
