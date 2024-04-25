@@ -38,12 +38,14 @@ Example:
    ```
 2. **Install Dependencies**
 
-```dotnet restore
+```bash
+dotnet restore
 ```
 
 3. **Running the application \***
 
-```dotnet run
+```bash
+dotnet run
 ```
 
 ### Notes on Customization:
